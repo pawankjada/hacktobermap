@@ -1,5 +1,4 @@
-var hacktobermap = [
-  {
+var hacktobermap = [{
     name: 'Clay Jensen-Reimann',
     location: 'Champaign, IL',
     latitude: 40.11,
@@ -1314,6 +1313,11 @@ var hacktobermap = [
     longitude: -102.22
   },
   {
+    name: 'PKJ',
+    location: 'Atlanta, USA',
+    latitude: 33.7490,
+    longitude: 84.3880,
+  }, {
     name: "Brandon P",
     location: "Taunton, UK",
     latitude: 41.901648,
@@ -1395,7 +1399,7 @@ var hacktobermap = [
     name: "KW",
     location: "San Francisco, USA",
     latitude: 37.774929,
-    longitude: -122.419418 
+    longitude: -122.419418
   },
   {
     name: "C. Janzen",
@@ -1425,12 +1429,12 @@ var hacktobermap = [
     name: "Shireen G.",
     location: "Las Vegas, NV",
     latitude: 36.169941,
-    longitude: -115.139832 
+    longitude: -115.139832
   },
   {
     name: "Callan",
     location: "Toulouse, FRA",
-    latitude:  43.6047,
+    latitude: 43.6047,
     longitude: 1.4442
   },
   {
@@ -1441,7 +1445,7 @@ var hacktobermap = [
   },
   {
     name: "Michal",
-    location: "Aalborg",    
+    location: "Aalborg",
     latitude: 57.048221,
     longitude: 9.919394
   },
@@ -1449,7 +1453,7 @@ var hacktobermap = [
     name: "!tach!",
     location: "Bangalore",
     latitude: 12.971599,
-    longitude: 77.594566 
+    longitude: 77.594566
   },
   {
     name: "Kanthrajs",
@@ -1491,7 +1495,7 @@ var hacktobermap = [
     name: "FrikanRw",
     location: "Pretoria",
     latitude: -25.789392,
-    longitude: 28.341563 
+    longitude: 28.341563
   },
   {
     name: "Nick",
@@ -1521,7 +1525,7 @@ var hacktobermap = [
     name: "Pseudogenesis",
     location: "Fullerton, California, USA",
     latitude: 33.870350,
-    longitude: -117.924300 
+    longitude: -117.924300
   },
   {
     name: "Matty",
@@ -1533,13 +1537,13 @@ var hacktobermap = [
     name: "Pranava Dhar",
     location: "Noida, India",
     latitude: 28.535,
-    longitude: 77.391 
+    longitude: 77.391
   },
   {
     name: "Mary",
     location: "Georgia, United States",
     latitude: 32.165623,
-    longitude: -82.900078 
+    longitude: -82.900078
   },
   {
     name: "Justin K",
